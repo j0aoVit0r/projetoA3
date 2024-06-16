@@ -1,5 +1,4 @@
-Atividade dada pelo professor Thiago Favor ignorar os arquivos com nome de "teste" Apenas o arquivo "Atividade Pre A3" e "oficicina-spring-boot" Fazem parte do trabalho.
-
+Atividade dada pelo professor Thiago  
 Papel de cada integrante do grupo:
 
 Pedro Antero: Tech Lead , Analista de Requisitos (Criar e manter o quadro Jira/Trello)
