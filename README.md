@@ -1,4 +1,9 @@
 Atividade dada pelo professor Thiago Favor ignorar os arquivos com nome de "teste" Apenas o arquivo "Atividade Pre A3" e "oficicina-spring-boot" Fazem parte do trabalho.
 
-Papel de cada integrante do grupo
-Tech Lead: Pedro Antero Analista de Dados: Gustavo Fernandes Responsável pela documentação: João Vitor, Saulo Inácio (mudar o modo do readme de prevew para code)
+Papel de cada integrante do grupo:
+
+Pedro Antero: Tech Lead , Analista de Requisitos (Criar e manter o quadro Jira/Trello)
+
+Gustavo Fernandes: Arquiteto Back-end (Criar e manter arquitetura nuvem do projeto)
+
+Joao Vitor: Arquiteto DB (Criar e manter arquitetura nuvem de Banco de Dados)
