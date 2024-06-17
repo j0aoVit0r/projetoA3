@@ -5,4 +5,4 @@ Pedro Antero: Tech Lead , Analista de Requisitos (Criar e manter o quadro Jira/T
 
 Gustavo Fernandes: Arquiteto Back-end (Criar e manter arquitetura nuvem do projeto)
 
-Joao Vitor: Arquiteto DB (Criar e manter arquitetura nuvem de Banco de Dados)
+Joao Vitor: Arquiteto DB (Criar e manter arquitetura nuvem de Banco de Dados).
